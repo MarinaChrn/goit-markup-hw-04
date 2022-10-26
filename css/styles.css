@@ -379,7 +379,7 @@ body {
     border-radius: 50%;
 }
 
-.team-soc-link:hover {
+.team-soc-link:hover, .team-soc-link:focus {
     background-color: #2196F3;
     color: #fff;
 }
